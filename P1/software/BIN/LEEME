@@ -1,0 +1,13 @@
+En la carpeta BIN tenemos:
+
+-Carpeta datos: contiene los ficheros de datos utilizados para cada simulación de la práctica.
+
+-Ejecutable p1: ejecutable de la práctica.
+
+En la carpeta SOURCE tenemos:
+
+-práctica1.cpp: código fuente de la práctica.
+
+-script.sh: script para compilar los archivos fuentes y crear el ejecutable.
+
+-Resto de archivos: archivos fuentes necesarios para compilar la práctica.
