@@ -1,0 +1,1207 @@
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 1
+-----------------
+Resultado: 
+0 0 0 0 0 1 1 1 1 0 0 0 0 1 0 1 0 1 1 1 1 0 0 1 0 1 1 1 1 1 0 1 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 0 0 1 0 
+Número de aciertos: 163	Número de fallos: 17
+Porcentaje de acierto: 90.5556%	Porcentaje de reducción: 47.7778%
+Se han seleccionado 47 de 90 características.
+Tiempo de ejecución: 25.7117 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 2
+-----------------
+Resultado: 
+1 1 1 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0 1 1 0 1 0 0 0 1 1 0 1 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 1 1 1 0 0 0 0 1 1 0 1 0 0 0 1 0 0 0 0 1 1 1 0 1 0 0 0 0 0 1 
+Número de aciertos: 169	Número de fallos: 11
+Porcentaje de acierto: 93.8889%	Porcentaje de reducción: 52.2222%
+Se han seleccionado 43 de 90 características.
+Tiempo de ejecución: 25.321 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 3
+-----------------
+Resultado: 
+0 1 1 0 1 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 1 0 0 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 1 0 0 0 1 1 0 0 1 1 0 1 1 1 1 0 1 1 1 1 0 0 1 0 1 1 0 1 0 1 0 1 1 1 1 1 0 1 0 0 0 0 1 1 1 1 0 1 1 1 
+Número de aciertos: 164	Número de fallos: 16
+Porcentaje de acierto: 91.1111%	Porcentaje de reducción: 43.3333%
+Se han seleccionado 51 de 90 características.
+Tiempo de ejecución: 25.3355 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 4
+-----------------
+Resultado: 
+0 1 1 0 1 0 1 0 1 1 1 0 1 0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0 1 1 1 1 0 0 1 1 1 1 1 1 1 0 0 1 1 1 0 0 0 0 1 1 1 0 1 0 0 1 0 1 0 1 1 1 0 0 0 0 1 0 1 1 0 1 0 0 1 1 0 1 1 0 1 0 1 0 1 0 0 
+Número de aciertos: 156	Número de fallos: 24
+Porcentaje de acierto: 86.6667%	Porcentaje de reducción: 46.6667%
+Se han seleccionado 48 de 90 características.
+Tiempo de ejecución: 25.3055 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 5
+-----------------
+Resultado: 
+1 0 0 1 0 1 1 0 0 0 1 1 0 1 1 1 0 0 0 0 0 0 1 1 1 0 1 0 1 0 0 0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 1 0 1 1 1 0 0 1 0 1 0 0 1 1 1 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 0 1 
+Número de aciertos: 164	Número de fallos: 16
+Porcentaje de acierto: 91.1111%	Porcentaje de reducción: 46.6667%
+Se han seleccionado 48 de 90 características.
+Tiempo de ejecución: 25.3686 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 6
+-----------------
+Resultado: 
+0 0 1 1 0 0 0 0 1 0 0 0 1 1 1 1 0 0 1 1 1 0 1 0 1 1 0 1 1 0 0 1 1 1 0 0 1 0 1 0 1 0 0 0 0 1 1 0 1 0 1 0 1 1 1 1 1 0 0 0 1 0 1 1 0 0 0 1 1 1 0 0 0 1 1 1 1 0 1 0 1 0 0 0 0 1 0 1 1 1 
+Número de aciertos: 171	Número de fallos: 9
+Porcentaje de acierto: 95%	Porcentaje de reducción: 48.8889%
+Se han seleccionado 46 de 90 características.
+Tiempo de ejecución: 25.5796 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 7
+-----------------
+Resultado: 
+0 1 1 0 1 1 0 1 0 0 1 1 1 1 1 0 1 1 0 1 1 1 1 0 0 0 1 0 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 1 0 0 1 0 1 0 1 0 1 0 0 1 0 0 1 0 0 1 1 0 1 1 0 1 1 1 0 0 1 1 0 1 1 1 0 1 0 
+Número de aciertos: 165	Número de fallos: 15
+Porcentaje de acierto: 91.6667%	Porcentaje de reducción: 46.6667%
+Se han seleccionado 48 de 90 características.
+Tiempo de ejecución: 25.4228 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 8
+-----------------
+Resultado: 
+1 1 0 0 0 0 1 0 0 0 1 0 1 1 0 0 0 0 1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 0 0 0 1 0 0 1 1 1 0 0 0 1 1 1 1 1 1 0 0 1 1 0 0 0 0 0 1 1 1 1 0 0 0 1 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 1 
+Número de aciertos: 153	Número de fallos: 27
+Porcentaje de acierto: 85%	Porcentaje de reducción: 52.2222%
+Se han seleccionado 43 de 90 características.
+Tiempo de ejecución: 25.2438 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 9
+-----------------
+Resultado: 
+0 0 0 1 0 1 1 1 0 0 0 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 0 0 0 1 0 1 1 1 1 0 1 0 1 1 0 1 0 1 1 1 0 1 0 0 1 1 0 0 1 1 0 0 1 0 0 1 1 1 1 0 1 0 1 1 0 1 1 0 1 0 0 1 0 1 1 0 1 1 0 0 0 0 1 
+Número de aciertos: 166	Número de fallos: 14
+Porcentaje de acierto: 92.2222%	Porcentaje de reducción: 46.6667%
+Se han seleccionado 48 de 90 características.
+Tiempo de ejecución: 25.2528 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 10
+-----------------
+Resultado: 
+1 0 1 1 0 1 1 1 0 0 1 1 0 0 1 1 0 0 1 1 0 0 1 0 1 1 0 0 0 0 1 1 1 1 0 1 0 0 1 0 1 1 1 1 0 0 0 1 0 1 1 0 0 0 1 1 0 1 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 1 0 1 1 1 0 0 0 0 0 1 
+Número de aciertos: 162	Número de fallos: 18
+Porcentaje de acierto: 90%	Porcentaje de reducción: 53.3333%
+Se han seleccionado 42 de 90 características.
+Tiempo de ejecución: 25.2453 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 11
+-----------------
+Resultado: 
+0 0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 1 0 1 0 0 1 0 0 1 0 1 1 0 1 1 1 1 0 1 1 0 0 1 1 1 0 1 1 0 1 1 1 0 1 0 0 1 1 1 0 1 0 0 1 0 1 0 0 1 0 0 0 1 0 1 0 0 1 1 0 1 0 0 1 1 0 1 0 1 0 1 1 1 0 0 1 0 1 1 1 1 1 1 0 0 0 1 1 1 0 1 0 1 1 1 1 0 1 0 1 1 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 1 0 0 1 1 1 0 1 1 1 1 0 1 0 0 1 0 1 0 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 1 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 1 1 0 1 1 1 0 1 0 1 0 1 1 1 0 1 0 0 1 1 1 0 0 1 0 1 1 0 1 0 0 0 0 1 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 1 0 0 0 1 1 1 0 0 0 1 0 1 1 1 0 0 1 1 0 0 0 0 0 1 0 1 1 1 0 
+Número de aciertos: 161	Número de fallos: 32
+Porcentaje de acierto: 83.4197%	Porcentaje de reducción: 47.482%
+Se han seleccionado 146 de 278 características.
+Tiempo de ejecución: 81.6525 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 12
+-----------------
+Resultado: 
+1 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 1 1 0 1 0 1 0 1 1 0 1 0 1 0 1 1 1 0 0 0 1 1 1 1 1 0 1 0 0 1 1 1 1 1 1 0 0 1 0 0 1 1 0 0 0 1 0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0 0 1 0 0 1 0 0 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1 0 1 1 0 1 1 1 0 0 0 1 0 0 1 0 0 1 1 0 1 1 1 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0 1 0 0 1 0 1 0 0 1 1 1 0 1 0 0 0 1 1 1 0 1 1 0 0 0 0 0 1 0 1 1 1 0 1 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 1 0 1 1 0 0 0 1 1 1 1 0 0 1 1 0 1 1 1 0 0 0 0 1 0 0 0 0 1 0 1 1 1 0 1 0 1 1 0 0 1 1 1 0 1 1 1 0 0 0 0 1 1 0 
+Número de aciertos: 154	Número de fallos: 39
+Porcentaje de acierto: 79.7927%	Porcentaje de reducción: 51.7986%
+Se han seleccionado 134 de 278 características.
+Tiempo de ejecución: 82.3957 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 13
+-----------------
+Resultado: 
+0 1 1 0 1 1 0 1 1 1 0 0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 0 0 1 0 1 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 0 1 0 0 1 1 0 1 1 0 1 0 0 1 1 1 1 0 1 0 1 1 1 1 1 1 0 0 1 1 1 0 1 0 0 1 0 0 1 1 0 1 0 1 0 0 1 1 1 1 1 0 1 0 0 1 1 0 0 0 0 1 1 0 1 1 0 1 0 0 1 1 1 0 0 0 1 1 1 1 1 0 1 0 1 0 1 1 0 0 0 1 0 1 0 1 1 0 0 1 1 1 1 0 0 0 0 1 0 1 1 0 0 0 0 1 1 0 0 0 1 0 0 0 1 1 1 0 1 1 0 1 0 0 1 0 0 1 1 0 0 1 1 0 1 1 0 1 1 0 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 1 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 1 1 0 1 1 1 0 0 1 1 0 1 0 0 0 1 1 0 0 0 1 0 0 1 0 1 0 0 1 1 1 
+Número de aciertos: 151	Número de fallos: 42
+Porcentaje de acierto: 78.2383%	Porcentaje de reducción: 45.6835%
+Se han seleccionado 151 de 278 características.
+Tiempo de ejecución: 81.331 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 14
+-----------------
+Resultado: 
+1 1 0 0 1 0 1 0 0 1 0 0 1 1 1 1 0 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 0 1 1 0 1 0 1 1 0 0 1 0 1 1 1 1 0 0 1 0 1 0 0 0 1 1 0 0 1 0 1 1 0 1 1 1 0 1 1 1 0 0 1 0 1 0 0 0 1 0 1 1 1 1 0 1 0 1 0 1 1 0 1 0 1 1 1 1 0 1 1 0 0 0 0 0 1 0 0 1 1 0 1 0 1 1 0 1 1 0 0 1 1 0 0 0 1 0 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 0 1 1 1 0 1 1 0 1 0 0 1 0 0 0 1 1 0 0 0 1 1 0 1 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 0 1 0 1 1 0 1 0 0 0 0 1 0 1 0 1 0 0 1 1 0 0 0 1 1 1 1 0 1 1 0 0 0 0 0 1 0 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 0 1 0 
+Número de aciertos: 156	Número de fallos: 37
+Porcentaje de acierto: 80.829%	Porcentaje de reducción: 50%
+Se han seleccionado 139 de 278 características.
+Tiempo de ejecución: 85.9725 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 15
+-----------------
+Resultado: 
+0 0 0 1 1 0 1 1 0 1 0 0 1 1 1 0 1 1 0 0 0 1 1 1 0 0 1 1 0 1 1 1 1 1 0 1 1 1 1 1 0 1 1 0 0 0 0 0 1 0 1 0 0 1 1 0 0 1 1 1 0 0 0 1 1 0 0 0 1 0 0 1 1 1 1 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 0 1 0 1 1 1 1 0 1 0 0 0 0 1 1 0 1 1 1 0 1 0 1 0 1 0 0 1 0 0 1 1 1 1 1 0 1 0 0 0 1 1 1 0 1 0 1 1 1 1 0 0 0 1 0 0 1 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 0 1 1 0 0 1 1 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 1 1 0 1 0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 1 0 0 0 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 1 0 1 0 0 0 1 1 0 1 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 1 1 
+Número de aciertos: 151	Número de fallos: 42
+Porcentaje de acierto: 78.2383%	Porcentaje de reducción: 49.6403%
+Se han seleccionado 140 de 278 características.
+Tiempo de ejecución: 83.0735 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 16
+-----------------
+Resultado: 
+0 0 1 0 1 0 1 0 0 0 1 1 1 1 1 0 1 0 0 1 1 1 1 1 0 1 1 1 0 1 0 0 1 0 1 1 1 1 1 1 1 1 0 0 0 0 1 1 1 0 0 1 0 0 0 0 1 0 1 0 0 1 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 0 1 1 0 0 0 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 0 0 1 0 1 1 1 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 1 1 0 0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 0 0 1 1 0 0 0 1 1 1 0 0 1 1 1 1 0 0 1 0 1 1 1 1 1 1 0 0 1 1 1 0 1 1 0 1 0 1 0 0 1 0 1 0 0 1 1 0 0 0 1 1 1 0 1 1 0 0 0 1 1 0 1 1 1 0 1 
+Número de aciertos: 154	Número de fallos: 39
+Porcentaje de acierto: 79.7927%	Porcentaje de reducción: 46.7626%
+Se han seleccionado 148 de 278 características.
+Tiempo de ejecución: 84.2369 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 17
+-----------------
+Resultado: 
+0 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 1 1 1 1 0 0 1 1 1 0 0 0 1 1 1 0 1 0 0 1 0 1 1 0 1 0 1 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 1 0 0 1 1 0 0 1 1 1 1 0 1 0 0 1 1 1 0 0 0 0 1 0 0 0 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 1 1 0 1 0 1 1 0 0 1 0 0 0 1 1 1 0 0 0 1 1 0 0 1 0 0 0 1 1 1 1 1 1 0 1 0 0 0 1 0 0 1 1 1 1 0 1 1 1 1 0 1 1 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 0 1 1 0 0 1 0 0 0 0 1 1 1 1 1 1 0 1 0 1 0 0 1 1 1 0 0 0 1 1 1 1 1 1 1 0 0 1 1 0 0 0 1 1 0 0 1 0 0 0 1 0 1 0 1 1 0 0 0 1 0 0 1 0 1 0 0 0 0 0 1 0 0 1 1 0 1 0 0 1 0 1 1 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 
+Número de aciertos: 158	Número de fallos: 35
+Porcentaje de acierto: 81.8653%	Porcentaje de reducción: 50.7194%
+Se han seleccionado 137 de 278 características.
+Tiempo de ejecución: 83.7309 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 18
+-----------------
+Resultado: 
+1 1 0 1 0 0 1 0 1 0 1 1 1 0 0 1 0 0 0 0 0 1 0 1 1 1 1 1 1 0 1 0 1 0 1 0 1 0 0 0 0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 0 1 1 0 0 0 0 1 0 1 1 0 1 1 0 1 1 1 1 0 1 1 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 0 0 0 1 0 1 0 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 1 1 0 1 0 1 1 1 0 1 1 0 1 0 1 1 1 0 1 0 1 0 0 0 0 0 1 1 1 1 0 0 1 0 1 1 1 0 1 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 1 1 1 0 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 0 1 1 0 0 0 0 0 1 0 1 0 1 0 0 1 1 1 1 0 0 1 1 0 1 1 1 0 0 0 0 1 0 0 1 1 
+Número de aciertos: 149	Número de fallos: 44
+Porcentaje de acierto: 77.2021%	Porcentaje de reducción: 48.2014%
+Se han seleccionado 144 de 278 características.
+Tiempo de ejecución: 84.8604 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 19
+-----------------
+Resultado: 
+1 0 0 1 1 1 0 0 0 0 0 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 1 0 0 0 1 1 0 1 1 1 1 1 0 0 1 0 0 0 1 0 1 1 0 1 0 0 1 0 1 1 1 1 1 0 1 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 1 0 1 0 0 1 0 1 0 1 1 0 1 1 0 1 1 1 0 1 1 0 1 0 0 0 1 1 0 1 0 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 1 1 1 0 1 1 0 1 1 1 1 0 1 0 0 1 1 1 0 0 1 0 1 0 1 1 1 1 1 0 0 1 0 0 1 1 0 0 0 1 1 0 1 1 0 1 1 0 1 0 0 1 1 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1 0 1 0 1 0 0 0 0 0 1 0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 1 0 1 1 1 1 0 0 1 0 1 1 1 0 
+Número de aciertos: 151	Número de fallos: 42
+Porcentaje de acierto: 78.2383%	Porcentaje de reducción: 48.5611%
+Se han seleccionado 143 de 278 características.
+Tiempo de ejecución: 84.4186 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 20
+-----------------
+Resultado: 
+1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 0 1 0 1 0 0 1 0 1 0 1 1 1 1 1 1 0 1 1 1 1 0 1 0 0 1 0 0 1 0 0 1 0 1 1 1 1 1 1 0 1 0 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 1 0 0 0 1 1 1 0 0 1 0 0 1 1 0 1 0 1 1 0 1 0 1 1 0 1 1 1 1 1 0 0 1 0 1 1 0 1 1 0 1 0 0 0 1 0 0 1 1 1 1 0 0 1 0 0 1 1 1 1 1 0 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 1 1 0 1 1 0 1 1 0 1 0 0 0 1 0 0 1 1 1 0 1 1 0 0 1 0 0 1 0 1 0 1 0 1 0 1 1 0 1 1 0 1 1 1 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 1 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 1 1 1 0 0 0 0 0 1 0 1 0 0 1 1 1 0 1 0 0 0 0 0 1 0 1 1 
+Número de aciertos: 157	Número de fallos: 36
+Porcentaje de acierto: 81.3472%	Porcentaje de reducción: 51.0791%
+Se han seleccionado 136 de 278 características.
+Tiempo de ejecución: 85.567 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 21
+-----------------
+Resultado: 
+1 0 0 1 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0 
+Número de aciertos: 233	Número de fallos: 52
+Porcentaje de acierto: 81.7544%	Porcentaje de reducción: 36.6667%
+Se han seleccionado 19 de 30 características.
+Tiempo de ejecución: 20.2101 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 22
+-----------------
+Resultado: 
+0 1 0 0 1 1 0 0 1 0 0 1 1 0 0 0 0 0 1 0 0 0 1 1 1 0 1 0 0 0 
+Número de aciertos: 271	Número de fallos: 14
+Porcentaje de acierto: 95.0877%	Porcentaje de reducción: 63.3333%
+Se han seleccionado 11 de 30 características.
+Tiempo de ejecución: 20.591 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 23
+-----------------
+Resultado: 
+1 0 0 0 1 1 1 0 0 0 0 1 0 1 0 0 1 0 1 0 0 1 0 0 1 0 1 0 0 0 
+Número de aciertos: 246	Número de fallos: 39
+Porcentaje de acierto: 86.3158%	Porcentaje de reducción: 63.3333%
+Se han seleccionado 11 de 30 características.
+Tiempo de ejecución: 20.3433 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 24
+-----------------
+Resultado: 
+0 1 1 0 1 1 0 0 1 1 0 0 0 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 1 
+Número de aciertos: 276	Número de fallos: 9
+Porcentaje de acierto: 96.8421%	Porcentaje de reducción: 53.3333%
+Se han seleccionado 14 de 30 características.
+Tiempo de ejecución: 20.3236 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 25
+-----------------
+Resultado: 
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 1 1 0 0 0 0 1 0 1 0 1 0 1 
+Número de aciertos: 266	Número de fallos: 19
+Porcentaje de acierto: 93.3333%	Porcentaje de reducción: 53.3333%
+Se han seleccionado 14 de 30 características.
+Tiempo de ejecución: 20.3217 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 26
+-----------------
+Resultado: 
+1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 0 0 1 1 1 1 1 0 0 
+Número de aciertos: 249	Número de fallos: 36
+Porcentaje de acierto: 87.3684%	Porcentaje de reducción: 36.6667%
+Se han seleccionado 19 de 30 características.
+Tiempo de ejecución: 20.4539 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 27
+-----------------
+Resultado: 
+1 0 0 0 1 0 1 0 0 1 1 0 0 1 0 1 1 0 0 1 0 1 0 1 0 1 0 1 1 0 
+Número de aciertos: 242	Número de fallos: 43
+Porcentaje de acierto: 84.9123%	Porcentaje de reducción: 53.3333%
+Se han seleccionado 14 de 30 características.
+Tiempo de ejecución: 20.693 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 28
+-----------------
+Resultado: 
+0 0 0 0 0 0 0 1 1 1 0 1 0 1 0 1 0 0 0 0 1 1 0 0 0 1 1 0 1 0 
+Número de aciertos: 280	Número de fallos: 5
+Porcentaje de acierto: 98.2456%	Porcentaje de reducción: 63.3333%
+Se han seleccionado 11 de 30 características.
+Tiempo de ejecución: 20.691 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 29
+-----------------
+Resultado: 
+0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 0 1 0 0 1 1 1 1 0 0 0 
+Número de aciertos: 237	Número de fallos: 48
+Porcentaje de acierto: 83.1579%	Porcentaje de reducción: 43.3333%
+Se han seleccionado 17 de 30 características.
+Tiempo de ejecución: 20.8769 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGG. Simulación: 30
+-----------------
+Resultado: 
+1 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 0 0 0 1 
+Número de aciertos: 228	Número de fallos: 57
+Porcentaje de acierto: 80%	Porcentaje de reducción: 50%
+Se han seleccionado 15 de 30 características.
+Tiempo de ejecución: 21.5323 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 1
+-----------------
+Resultado: 
+0 0 1 0 0 0 1 1 0 0 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 0 0 1 0 1 0 0 0 1 1 0 0 0 1 1 1 0 0 1 0 0 1 0 0 0 1 1 0 1 1 1 0 1 
+Número de aciertos: 168	Número de fallos: 12
+Porcentaje de acierto: 93.3333%	Porcentaje de reducción: 53.3333%
+Se han seleccionado 42 de 90 características.
+Tiempo de ejecución: 27.4001 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 2
+-----------------
+Resultado: 
+1 0 0 0 1 0 1 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 1 1 1 1 1 0 1 1 1 0 1 1 0 1 0 0 1 0 0 1 1 1 1 0 0 1 0 0 1 0 1 1 0 1 1 0 0 0 1 1 
+Número de aciertos: 152	Número de fallos: 28
+Porcentaje de acierto: 84.4444%	Porcentaje de reducción: 50%
+Se han seleccionado 45 de 90 características.
+Tiempo de ejecución: 27.5808 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 3
+-----------------
+Resultado: 
+1 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 1 1 0 1 1 0 0 0 1 1 0 1 0 1 0 1 1 0 1 0 1 1 1 0 1 0 1 0 1 0 1 1 1 0 0 0 0 1 0 1 0 0 0 1 0 1 1 0 1 1 1 0 0 1 0 1 1 0 1 1 1 1 0 0 1 0 
+Número de aciertos: 159	Número de fallos: 21
+Porcentaje de acierto: 88.3333%	Porcentaje de reducción: 51.1111%
+Se han seleccionado 44 de 90 características.
+Tiempo de ejecución: 27.0535 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 4
+-----------------
+Resultado: 
+0 1 0 0 1 0 0 1 0 1 1 0 0 1 1 1 1 1 1 0 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 1 1 1 0 1 0 0 0 1 0 0 1 1 0 0 1 0 0 
+Número de aciertos: 156	Número de fallos: 24
+Porcentaje de acierto: 86.6667%	Porcentaje de reducción: 51.1111%
+Se han seleccionado 44 de 90 características.
+Tiempo de ejecución: 27.4872 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 5
+-----------------
+Resultado: 
+0 0 1 1 1 0 1 0 1 1 0 1 0 0 0 1 1 1 1 1 0 0 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 1 0 1 1 0 1 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1 0 1 1 0 1 0 1 1 0 0 1 1 1 0 1 0 0 0 1 1 0 1 1 0 1 0 1 1 1 1 1 
+Número de aciertos: 170	Número de fallos: 10
+Porcentaje de acierto: 94.4444%	Porcentaje de reducción: 37.7778%
+Se han seleccionado 56 de 90 características.
+Tiempo de ejecución: 27.1502 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 6
+-----------------
+Resultado: 
+1 0 1 1 1 1 1 1 0 1 1 0 0 1 1 0 0 0 0 1 1 0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 1 1 1 1 1 1 0 1 1 1 1 0 1 0 1 0 1 1 1 1 1 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 0 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 
+Número de aciertos: 163	Número de fallos: 17
+Porcentaje de acierto: 90.5556%	Porcentaje de reducción: 42.2222%
+Se han seleccionado 52 de 90 características.
+Tiempo de ejecución: 27.9936 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 7
+-----------------
+Resultado: 
+0 1 0 1 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 1 0 1 1 0 0 0 0 1 1 0 1 1 1 0 1 1 1 0 0 1 1 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 1 0 
+Número de aciertos: 168	Número de fallos: 12
+Porcentaje de acierto: 93.3333%	Porcentaje de reducción: 45.5556%
+Se han seleccionado 49 de 90 características.
+Tiempo de ejecución: 28.0498 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 8
+-----------------
+Resultado: 
+1 0 1 1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0 1 0 0 0 1 0 1 1 1 0 1 1 0 1 1 0 1 1 0 1 0 0 0 1 1 1 1 0 0 1 1 0 1 0 0 1 0 0 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 0 0 1 1 0 0 0 1 0 0 1 0 0 0 1 1 0 
+Número de aciertos: 162	Número de fallos: 18
+Porcentaje de acierto: 90%	Porcentaje de reducción: 53.3333%
+Se han seleccionado 42 de 90 características.
+Tiempo de ejecución: 27.3799 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 9
+-----------------
+Resultado: 
+0 1 0 1 1 0 1 0 0 0 0 1 1 0 1 1 1 0 0 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 1 1 0 0 1 1 0 1 1 0 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 0 1 0 1 0 0 
+Número de aciertos: 168	Número de fallos: 12
+Porcentaje de acierto: 93.3333%	Porcentaje de reducción: 57.7778%
+Se han seleccionado 38 de 90 características.
+Tiempo de ejecución: 27.8455 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 10
+-----------------
+Resultado: 
+1 0 1 1 0 0 0 1 0 1 1 0 1 1 1 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 1 1 1 1 1 1 0 1 0 0 1 0 0 1 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 0 1 0 1 1 1 1 1 
+Número de aciertos: 162	Número de fallos: 18
+Porcentaje de acierto: 90%	Porcentaje de reducción: 42.2222%
+Se han seleccionado 52 de 90 características.
+Tiempo de ejecución: 27.6589 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 11
+-----------------
+Resultado: 
+0 1 1 1 1 1 0 0 0 0 1 1 0 1 1 1 0 0 0 1 0 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 0 1 1 1 1 0 1 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 1 0 1 1 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 0 1 0 0 1 1 0 0 1 1 0 1 0 0 0 0 1 0 1 0 1 0 1 1 0 1 1 0 1 1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 1 1 0 1 0 1 1 1 0 1 1 0 1 0 0 1 0 0 1 1 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 1 1 1 0 1 0 0 1 1 0 1 1 1 1 1 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 1 0 0 1 0 0 0 1 0 0 1 1 1 1 0 1 1 0 
+Número de aciertos: 153	Número de fallos: 40
+Porcentaje de acierto: 79.2746%	Porcentaje de reducción: 51.4389%
+Se han seleccionado 135 de 278 características.
+Tiempo de ejecución: 85.8172 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 12
+-----------------
+Resultado: 
+0 1 0 1 1 1 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 1 0 1 1 0 1 0 0 0 0 1 0 0 1 0 1 0 0 1 1 0 1 1 0 1 1 1 1 0 1 0 1 0 0 1 1 1 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0 1 1 1 0 0 1 0 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0 0 1 1 1 1 0 1 1 1 0 1 0 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1 1 1 0 0 1 1 1 0 1 1 0 0 1 1 0 1 1 1 1 1 0 1 0 1 1 0 1 0 1 1 1 0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 1 1 1 0 1 1 0 0 0 1 0 1 1 0 0 0 0 1 1 0 0 1 1 0 1 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 1 0 1 1 0 1 0 1 1 
+Número de aciertos: 163	Número de fallos: 30
+Porcentaje de acierto: 84.456%	Porcentaje de reducción: 51.4389%
+Se han seleccionado 135 de 278 características.
+Tiempo de ejecución: 87.3337 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 13
+-----------------
+Resultado: 
+0 0 1 1 0 0 0 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 0 0 0 1 1 0 0 1 1 0 0 1 0 1 0 0 0 0 0 1 0 1 1 1 0 1 1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0 1 1 0 1 0 0 0 1 1 0 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 1 0 1 1 1 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 1 0 0 1 0 1 0 1 0 0 1 0 0 1 1 0 1 1 1 1 1 1 1 1 0 1 0 1 1 1 0 1 1 0 1 0 1 0 1 0 0 0 0 1 1 0 0 0 1 0 0 1 0 0 1 1 1 1 0 1 0 1 1 1 0 0 0 1 1 1 1 1 0 1 1 0 0 0 0 0 1 0 1 1 1 0 0 1 1 0 1 0 1 1 1 1 0 1 0 
+Número de aciertos: 155	Número de fallos: 38
+Porcentaje de acierto: 80.3109%	Porcentaje de reducción: 50.7194%
+Se han seleccionado 137 de 278 características.
+Tiempo de ejecución: 86.237 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 14
+-----------------
+Resultado: 
+0 0 1 1 0 1 1 0 1 0 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 1 1 1 1 0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 0 0 0 1 0 0 1 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 1 0 1 0 1 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 1 0 1 1 0 1 0 1 1 1 1 1 0 1 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 1 1 1 0 0 1 1 1 1 1 1 1 0 0 1 1 0 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 0 1 1 1 1 1 0 0 0 1 1 1 1 1 0 0 1 0 1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 0 1 1 1 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 0 1 0 1 0 1 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 
+Número de aciertos: 158	Número de fallos: 35
+Porcentaje de acierto: 81.8653%	Porcentaje de reducción: 51.7986%
+Se han seleccionado 134 de 278 características.
+Tiempo de ejecución: 86.2227 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 15
+-----------------
+Resultado: 
+0 0 0 1 0 0 0 0 1 1 1 1 1 1 0 0 0 1 1 0 0 1 0 1 0 1 1 0 0 1 1 0 1 1 0 0 1 0 1 0 1 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 1 0 0 0 0 1 0 1 0 1 1 0 1 0 1 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1 1 1 1 0 1 1 0 0 0 1 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 1 0 1 1 1 0 0 1 1 1 0 1 1 0 1 0 0 1 0 1 1 1 0 1 0 1 1 0 0 1 0 0 1 1 0 1 0 1 0 1 1 1 1 0 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 1 1 0 1 0 0 1 1 1 1 0 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 0 1 0 0 1 0 1 0 1 1 1 1 1 0 1 0 1 1 1 1 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 0 1 1 0 1 0 1 1 0 0 
+Número de aciertos: 152	Número de fallos: 41
+Porcentaje de acierto: 78.7565%	Porcentaje de reducción: 52.518%
+Se han seleccionado 132 de 278 características.
+Tiempo de ejecución: 89.5227 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 16
+-----------------
+Resultado: 
+1 1 1 0 0 1 1 1 1 1 1 0 1 0 1 1 1 0 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 0 0 1 0 0 0 0 1 1 0 1 1 1 0 0 0 0 0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0 1 1 1 0 0 1 0 1 0 1 1 1 1 1 0 1 1 1 1 0 0 0 1 1 1 1 0 1 0 1 0 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 0 1 0 1 0 1 1 0 1 1 1 1 1 0 0 1 1 0 1 1 1 1 0 0 1 0 0 1 1 0 1 0 0 0 1 0 1 0 1 0 0 1 1 0 0 0 0 1 0 0 1 1 0 0 0 1 1 1 1 1 1 0 0 1 0 0 1 1 0 1 1 1 0 0 0 1 1 0 1 0 0 1 1 0 1 1 1 0 1 1 0 1 0 0 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 1 0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 
+Número de aciertos: 154	Número de fallos: 39
+Porcentaje de acierto: 79.7927%	Porcentaje de reducción: 39.5683%
+Se han seleccionado 168 de 278 características.
+Tiempo de ejecución: 87.1482 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 17
+-----------------
+Resultado: 
+1 0 1 1 0 0 1 1 1 0 0 1 0 0 1 1 1 0 0 0 1 1 0 0 0 1 0 0 1 0 0 1 1 1 0 1 1 0 0 1 1 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1 1 0 1 0 1 0 1 0 0 1 1 0 0 0 1 0 0 1 0 0 1 1 0 0 1 1 0 1 0 0 0 1 1 1 0 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 1 1 0 1 1 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1 1 1 1 0 1 0 1 1 0 0 1 0 0 1 0 1 0 0 1 0 0 0 0 1 1 1 0 1 0 0 0 0 1 0 0 1 0 1 0 1 1 0 1 1 1 1 1 0 1 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 0 1 0 0 1 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 1 1 0 1 0 1 0 0 1 1 1 1 1 1 1 0 1 
+Número de aciertos: 160	Número de fallos: 33
+Porcentaje de acierto: 82.9016%	Porcentaje de reducción: 52.8777%
+Se han seleccionado 131 de 278 características.
+Tiempo de ejecución: 85.7112 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 18
+-----------------
+Resultado: 
+1 1 0 1 0 0 0 0 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 1 1 1 0 0 1 0 0 0 0 0 1 1 0 1 0 1 0 1 0 0 0 0 0 1 0 0 0 1 1 1 1 1 0 1 0 0 1 0 1 1 0 1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0 1 1 1 0 0 1 1 1 1 0 0 0 1 0 0 0 1 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 0 0 1 0 0 1 1 1 0 1 1 1 1 1 1 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 1 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 1 1 1 1 0 1 0 0 1 0 1 0 0 0 1 0 0 1 1 1 0 0 1 1 0 1 1 1 0 1 1 0 1 1 0 1 1 0 0 0 1 0 0 1 0 0 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 
+Número de aciertos: 163	Número de fallos: 30
+Porcentaje de acierto: 84.456%	Porcentaje de reducción: 52.8777%
+Se han seleccionado 131 de 278 características.
+Tiempo de ejecución: 86.8588 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 19
+-----------------
+Resultado: 
+1 1 1 1 0 0 1 0 1 0 1 1 1 1 0 0 1 0 0 1 1 1 1 0 1 0 1 0 0 1 0 0 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 1 1 1 1 0 0 1 1 0 1 1 1 0 1 0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 1 0 1 1 0 1 1 1 0 0 1 0 0 1 0 0 0 1 1 1 1 0 1 0 0 0 0 1 1 0 0 1 0 0 1 0 1 0 1 1 1 0 0 1 0 1 0 1 1 1 0 1 0 0 0 1 1 1 1 0 0 1 0 1 0 0 0 1 0 0 1 0 0 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 0 1 0 0 1 1 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 1 0 1 1 1 1 0 1 1 0 1 1 0 0 1 0 1 0 0 1 0 0 1 0 1 0 1 0 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 1 1 0 1 1 0 0 1 1 1 0 0 1 1 0 0 1 0 1 1 0 1 1 0 1 0 1 0 0 
+Número de aciertos: 148	Número de fallos: 45
+Porcentaje de acierto: 76.6839%	Porcentaje de reducción: 51.4389%
+Se han seleccionado 135 de 278 características.
+Tiempo de ejecución: 87.6613 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 20
+-----------------
+Resultado: 
+0 1 1 0 1 1 0 0 1 0 1 0 0 1 1 0 1 1 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 0 1 0 0 0 0 1 0 1 0 0 1 0 0 1 1 1 0 1 0 0 0 0 1 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 1 1 0 0 1 0 1 0 1 1 1 1 1 1 0 0 1 0 0 1 0 0 1 0 0 0 0 1 1 0 1 0 1 0 0 1 1 0 1 1 0 1 0 1 0 1 0 1 1 1 1 1 1 0 0 0 1 1 1 0 1 0 0 1 1 0 0 1 0 0 1 0 0 0 1 1 1 0 0 1 1 0 0 1 1 1 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 1 1 1 1 0 1 0 1 1 1 0 0 0 1 0 0 0 0 1 1 0 1 1 1 0 0 1 0 1 1 1 1 0 1 1 1 1 0 1 0 1 1 1 1 0 1 0 0 1 0 1 1 0 1 0 0 0 0 0 0 0 0 1 1 1 0 1 0 1 0 0 0 1 1 0 1 1 1 0 0 0 
+Número de aciertos: 152	Número de fallos: 41
+Porcentaje de acierto: 78.7565%	Porcentaje de reducción: 48.5611%
+Se han seleccionado 143 de 278 características.
+Tiempo de ejecución: 86.3805 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 21
+-----------------
+Resultado: 
+1 1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0 0 1 0 1 0 
+Número de aciertos: 234	Número de fallos: 51
+Porcentaje de acierto: 82.1053%	Porcentaje de reducción: 53.3333%
+Se han seleccionado 14 de 30 características.
+Tiempo de ejecución: 21.0367 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 22
+-----------------
+Resultado: 
+1 1 1 0 0 0 1 0 1 0 0 0 1 0 1 1 1 0 1 1 1 0 0 1 0 1 0 1 0 1 
+Número de aciertos: 276	Número de fallos: 9
+Porcentaje de acierto: 96.8421%	Porcentaje de reducción: 46.6667%
+Se han seleccionado 16 de 30 características.
+Tiempo de ejecución: 21.0176 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 23
+-----------------
+Resultado: 
+1 0 0 0 1 0 1 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 1 1 1 0 0 1 0 
+Número de aciertos: 275	Número de fallos: 10
+Porcentaje de acierto: 96.4912%	Porcentaje de reducción: 60%
+Se han seleccionado 12 de 30 características.
+Tiempo de ejecución: 21.6276 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 24
+-----------------
+Resultado: 
+0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 1 1 0 1 0 1 0 0 0 
+Número de aciertos: 280	Número de fallos: 5
+Porcentaje de acierto: 98.2456%	Porcentaje de reducción: 66.6667%
+Se han seleccionado 10 de 30 características.
+Tiempo de ejecución: 20.9351 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 25
+-----------------
+Resultado: 
+1 1 0 1 1 0 0 0 0 0 0 1 0 1 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 0 
+Número de aciertos: 271	Número de fallos: 14
+Porcentaje de acierto: 95.0877%	Porcentaje de reducción: 40%
+Se han seleccionado 18 de 30 características.
+Tiempo de ejecución: 21.193 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 26
+-----------------
+Resultado: 
+1 0 1 0 0 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 1 
+Número de aciertos: 279	Número de fallos: 6
+Porcentaje de acierto: 97.8947%	Porcentaje de reducción: 40%
+Se han seleccionado 18 de 30 características.
+Tiempo de ejecución: 21.4716 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 27
+-----------------
+Resultado: 
+0 0 1 1 0 1 0 0 1 0 1 1 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 1 0 0 
+Número de aciertos: 276	Número de fallos: 9
+Porcentaje de acierto: 96.8421%	Porcentaje de reducción: 66.6667%
+Se han seleccionado 10 de 30 características.
+Tiempo de ejecución: 21.259 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 28
+-----------------
+Resultado: 
+1 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 0 1 0 1 1 1 1 0 1 0 0 0 1 1 
+Número de aciertos: 277	Número de fallos: 8
+Porcentaje de acierto: 97.193%	Porcentaje de reducción: 50%
+Se han seleccionado 15 de 30 características.
+Tiempo de ejecución: 21.1942 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 29
+-----------------
+Resultado: 
+1 0 1 0 1 1 1 0 1 0 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 0 0 0 1 
+Número de aciertos: 276	Número de fallos: 9
+Porcentaje de acierto: 96.8421%	Porcentaje de reducción: 40%
+Se han seleccionado 18 de 30 características.
+Tiempo de ejecución: 21.1542 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+-----------------
+Introduzca el número de simulación(1-30): 
+Simulaciones 1-10: movement_libras
+Simulaciones 11-20: arrhythmia
+Simulaciones 21-30: wdbc
+Introduzca el valor de la semilla: 
+Ejecutando AGE. Simulación: 30
+-----------------
+Resultado: 
+1 1 1 0 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 0 1 1 1 0 1 1 1 0 0 1 
+Número de aciertos: 271	Número de fallos: 14
+Porcentaje de acierto: 95.0877%	Porcentaje de reducción: 36.6667%
+Se han seleccionado 19 de 30 características.
+Tiempo de ejecución: 21.3006 segundos.
+-----------------
+Menú:
+Opción 1: AGG
+Opción 2: AGE
+Opción 3: salir
+-----------------
+Saliendo...
